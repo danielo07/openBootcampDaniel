@@ -1,0 +1,11 @@
+{
+  "name": "primerproyecto",
+  "version": "1.0.0",
+  "description": "Primer programa con node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "prueba"
+  },
+  "author": "Daniel JH",
+  "license": "ISC"
+}
